@@ -1,4 +1,4 @@
-## Hi there, This is Offshore Sync, a new project that will take the world of Offshore by storm 👋
+## Hi there, this is Offshore Sync, a new project that will take the world of Offshore by storm 👋
 
 <!--
 
