@@ -1,5 +1,7 @@
 ## Hi there, this is Offshore Sync, a new project that will take the world of Offshore by storm 👋
 
+We are an all in one solution for Offshore Industry Workers to have a complete working and most importantly, not working, schedules. This allows them to foresse and predict the best dates for travelling, making reunions and having fun with their families and colleagues.
+
 <!--
 
 **Here are some ideas to get you started:**
