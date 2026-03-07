@@ -1,6 +1,6 @@
 ## Hi there, this is Offshore Sync, a new project that will take the world of Offshore by storm 👋
 
-We are an all in one solution for Offshore Industry Workers to have complete control over their working schedule. This allows them to foresee and predict the best dates for travelling, hanging out and having fun with their friends, families and colleagues.
+We are a fully fledged bleeding-edge Maritime Social Network for workers and recruiters alike, we connect people to the new world of technology, in which they plan their schedule, share their stories, interact with each other and seek for jobs globally with zero friction.
 
 <!--
 
